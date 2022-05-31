@@ -1,7 +1,7 @@
 from .flags import Flag
 from .stringstream import stringstream
 from .special import returner, toBuffer
-from classes.Pointer import Pointer
+from class_pointer import Pointer
 import sys
 
 
